@@ -1,4 +1,4 @@
-ALY6140: Analytics-Systems-Technology
+ALY6140: Analytics Systems Technology
 
 In this course I strengthened my ability to work with real-world data by developing practical skills in data ingestion, cleaning, transformation, modeling, and communication. Throughout the course, I learned how to move from raw, unstructured datasets into well-organized, analysis-ready data pipelines using Python, SQL, and industry-standard libraries. I explored a range of tasks including data documentation, modular Python scripting, importing diverse file types, performing exploratory data analysis, and applying both descriptive and predictive modeling techniques. Each module focused on building a deeper understanding of how data flows through an analytical lifecycle and how to structure work in a way that is transparent, reproducible, and aligned with best practices.
 
