@@ -1,4 +1,4 @@
-Data-Driven Planning for Electric Vehicle Charging Infrastructure in Washington State
+Capstone Project: Data-Driven Planning for Electric Vehicle Charging Infrastructure in Washington State
 
 For my ALY 6140 Capstone Project, I conducted a comprehensive analysis of electric vehicle (EV) ownership in the state of Washington to determine where new charging stations should be added. I explored a large statewide EV registration dataset and began by cleaning, structuring, and examining the data using descriptive statistics, geographic assessments, and visual exploration. My goal was to understand the demographic and geographic distribution of EV owners, the makes and models they drive, and how far each vehicle can travel on a charge. I also incorporated variables such as legislative districts and Clean Alternative Fuel Vehicle (CAFV) eligibility to uncover the factors that most directly influence infrastructure needs.
 
